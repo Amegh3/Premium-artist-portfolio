@@ -124,7 +124,7 @@ body {
 /* Hero */
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.4), #000),
-              url('Photos/photo_6262538157450970361_x.jpg') center center / contain no-repeat;
+              url('photo_6262538157450970361_x.jpg') center center / contain no-repeat;
   height: 150vh;
   background-attachment: fixed;
   background-size: cover;
