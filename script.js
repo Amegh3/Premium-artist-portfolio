@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const whatsappMessage = `Hello, I would like to order a custom sketch! 🎨\n\nName: ${name}\nEmail: ${email}\nFrame Size: ${frame}\nDrawing Type: ${drawingType}\nMessage: ${message}`;
 
       const encodedMessage = encodeURIComponent(whatsappMessage);
-      const phoneNumber = "7012464761";
+      const phoneNumber = "XXXXXXXXXX";
       const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
 
       window.open(whatsappURL, "_blank");
