@@ -38,7 +38,7 @@ This portfolio template is designed with **visual storytelling** in mind. It hig
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/Amegh3/Premium-artist-portfolio.git
 
 2. Replace content
 
